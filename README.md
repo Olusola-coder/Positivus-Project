@@ -1,52 +1,108 @@
-Use the template below to create a resume for me.
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Olusola Olufunmi
 
-Frontend Developer | Final-Year Engineering Student
+<p align="center">
 
-I'm a passionate Frontend Developer and a Final-Year Materials and Metallurgical Engineering student at the Federal University of Technology, Minna (FUT Minna), Nigeria.
-I started my web development journey in 2025 and have since been building responsive, user-friendly, and modern web applications using industry-standard technologies.
-🌱 Currently improving my React and JavaScript skills
-💼 Open to internships, freelance projects, collaborations, and entry-level frontend opportunities
-🚀 Passionate about creating beautiful and functional user experiences
-🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=650&lines=Frontend+Developer;Engineering+Student;React+Enthusiast;Building+Modern+Web+Experiences" />
 
-* 🎓 Final-Year Student at Federal University of Technology, Minna
-* 📚 Studying Materials and Metallurgical Engineering
-* 💻 Frontend Developer
-* 🌱 Started learning software development in 2025
-* 🔍 Actively seeking opportunities to grow and contribute
-* ⚡ Interested in Web Development, UI/UX, and Modern Frontend Technologies
-🛠️ Tech Stack
+</p>
 
-📂 Featured Projects
-🛒 ShopRin
-Modern eCommerce frontend website with responsive design and seamless shopping experience.
-🔗 https://graceful-lolly-58d351.netlify.app/
-💼 Positivus
-A modern digital marketing agency website focused on clean UI and responsive layouts.
-🔗 https://silly-dango-9fe609.netlify.app/
-🏪 NOVA Commerce
-A complete marketplace frontend project built with modern web technologies.
-🔗 https://vermillion-parfait-1aa41a.netlify.app/
-📊 Area Analytics
-Analytics dashboard interface featuring modern layouts and data visualization.
-🔗 https://lively-mochi-4473e7.netlify.app/
-🎓 FUT Minna Portal
-A university portal interface designed to simplify student interactions and academic management.
-🔗 https://monumental-seahorse-b5f5b8.netlify.app/
-📈 GitHub Statistics
+### Frontend Developer • Final-Year Engineering Student
 
+I'm a passionate **Frontend Developer** and Final-Year **Materials & Metallurgical Engineering** student at the **Federal University of Technology, Minna (FUT Minna), Nigeria**.
 
+I enjoy building responsive, accessible and modern web applications that provide great user experiences.
 
-🌐 Connect With Me
+- 🌱 Currently learning **React, JavaScript & Frontend Architecture**
+- 💼 Open to internships, freelance projects and frontend roles
+- 🚀 Passionate about UI/UX and clean code
+- 📫 Reach me: **olusolaolufunmi20@gmail.com**
 
-💡 Developer Quote
-"Consistency beats talent when talent doesn't work consistently."
-🎯 2026 Goals
+---
 
-* Build more real-world frontend projects
-* Contribute to open-source projects
-* Deepen my React ecosystem knowledge
-* Learn advanced frontend architecture
-* Secure a frontend development role
-Thanks for visiting my profile! 🚀
-If you like my projects, feel free to star my repositories and connect with me.
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,git,github,vscode,figma&perline=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Live Demo |
+|---------|-------------|----------|
+| **🛒 ShopRin** | Modern eCommerce frontend | https://graceful-lolly-58d351.netlify.app/ |
+| **💼 Positivus** | Digital Marketing Agency UI | https://silly-dango-9fe609.netlify.app/ |
+| **🏪 NOVA Commerce** | Marketplace Frontend | https://vermillion-parfait-1aa41a.netlify.app/ |
+| **📊 Area Analytics** | Analytics Dashboard | https://lively-mochi-4473e7.netlify.app/ |
+| **🎓 FUT Minna Portal** | Student Portal UI | https://monumental-seahorse-b5f5b8.netlify.app/ |
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Olusola-coder&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Olusola-coder&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olusola-coder&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:olusolaolufunmi20@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/olusola-olufunmi-805933378">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://x.com/InixAlos">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- 🚀 Build production-ready React applications
+- 🌍 Contribute to Open Source
+- ⚛️ Master the React ecosystem
+- 💼 Secure a Frontend Developer role
+- 📚 Continue learning modern web technologies
+
+---
+
+# 💬 Favorite Quote
+
+> *"Consistency beats talent when talent doesn't work consistently."*
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting!
+
+If you enjoy my projects, consider **starring** a repository or connecting with me.
+
+</p>
